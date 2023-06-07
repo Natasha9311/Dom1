@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.AssemblyInfo.cs
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Dom1/bin/Debug/net7.0/Dom1
+/Users/macintosh/Desktop/Dom1/bin/Debug/net7.0/Dom1.deps.json
+/Users/macintosh/Desktop/Dom1/bin/Debug/net7.0/Dom1.runtimeconfig.json
+/Users/macintosh/Desktop/Dom1/bin/Debug/net7.0/Dom1.dll
+/Users/macintosh/Desktop/Dom1/bin/Debug/net7.0/Dom1.pdb
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.dll
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/refint/Dom1.dll
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.pdb
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/Dom1.genruntimeconfig.cache
+/Users/macintosh/Desktop/Dom1/obj/Debug/net7.0/ref/Dom1.dll
